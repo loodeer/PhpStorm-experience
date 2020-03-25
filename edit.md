@@ -2,9 +2,9 @@
 
 
 
+![image-20200325154344561](https://tva1.sinaimg.cn/large/00831rSTly1gd67win0k2j306c0cfgqu.jpg)
 
 
-## ★★★★★ 
 
 `⇧⌘C` Copy Reference  
 
@@ -26,9 +26,9 @@
 
 
 
-`⌥↑` Extend Selection 增量式的选中当前块
+`⌥↑` Extend Selection 增量式的选中当前块 ★★★★★ 
 
-`⌥↓` Shrink Selection 减小选中范围
+`⌥↓` Shrink Selection 减小选中范围 ★★★★★ 
 
 又是一组神级快捷键，自行感受。
 

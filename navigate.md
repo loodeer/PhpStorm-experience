@@ -4,7 +4,7 @@
 
 ![image-20200325105350722](https://tva1.sinaimg.cn/large/00831rSTly1gd5ziulnfpj305d0dojtr.jpg)
 
-## ★★★★★ 
+
 
 `⌘o` Class... 查找类
 
@@ -20,9 +20,9 @@
 
 
 
-`⌘[` Back 后退
+`⌘[` Back 后退 ★★★★★ 
 
-`⌘]`Forward 前进
+`⌘]`Forward 前进 ★★★★★ 
 
 神级快捷键，使用频率最高的快捷键，浏览代码必备快捷键，谁用谁知道。
 
