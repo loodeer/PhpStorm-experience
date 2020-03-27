@@ -12,7 +12,7 @@
 
 
 
-用的比较多的 Tool Windows 有:
+我用的比较多的 Tool Windows 有:
 
 `⌘1` Project
 
@@ -20,5 +20,5 @@
 
 `⌘6` TODO
 
-`⌘9` Version Control
+`⌘9` [Version Control](./version_control.html)
 

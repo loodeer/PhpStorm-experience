@@ -12,5 +12,6 @@
 * [其他](other.md)
 * [插件](plugins.md)
 * [xdebug 调试](xdebug.md)
+* [版本控制](version_control.md)
 * [写在最后](last.md)
 
