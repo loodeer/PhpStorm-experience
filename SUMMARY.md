@@ -7,6 +7,9 @@
 * [导航跳转](navigate.md)
 * [代码](code.md)
 * [重构](Refactor.md)
+* [右键](right_click.md)
 * [神奇的⌥↩](intention.md)
+* [其他](other.md)
+* [插件](plugins.md)
 * [写在最后](last.md)
 

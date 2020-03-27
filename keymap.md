@@ -20,6 +20,18 @@
 
 
 
+Mac 上的几个功能键符号。
+
+| 符号 |     解释     |
+| :--: | :----------: |
+|  ⌘   |   Command    |
+|  ⇧   |    Shift     |
+|  ⌃   |   Control    |
+|  ↩   | Enter/Return |
+|  ⌥   | Option / Alt |
+
+
+
 `⇧⌘A` 根据功能查快捷键
 
 ![image-20200325112010805](https://tva1.sinaimg.cn/large/00831rSTly1gd60a9b3dmj309y0dzdix.jpg)
