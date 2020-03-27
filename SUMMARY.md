@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [PhpStorm 使用心得](README.md)
 * [快捷键设置](keymap.md)
 * [编辑](edit.md)
 * [窗口视图](view.md)
@@ -11,5 +11,6 @@
 * [神奇的⌥↩](intention.md)
 * [其他](other.md)
 * [插件](plugins.md)
+* [xdebug 调试](xdebug.md)
 * [写在最后](last.md)
 

@@ -1,10 +1,6 @@
-# Introduction
+# PhpStorm 使用心得
 
-最早开发 PHP 使用的是 Zend Studio，后来在 15 年左右知道了 PhpStorm，使用了一阵子，爱不释手，果断替换了 IDE。
-
-
-
-到现在用了差不多 5 年时间了，整理一下自己的使用心得。
+使用 PhpStorm 也有小 5 年时间了，整理一下自己的使用心得。
 
 
 

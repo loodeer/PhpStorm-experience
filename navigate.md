@@ -1,6 +1,6 @@
 # 导航跳转
 
-![image-20200325095002210](https://tva1.sinaimg.cn/large/00831rSTly1gd5xogwmhuj306n0hvadr.jpg
+
 
 ![image-20200325105350722](https://tva1.sinaimg.cn/large/00831rSTly1gd5ziulnfpj305d0dojtr.jpg)
 

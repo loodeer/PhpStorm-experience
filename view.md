@@ -16,7 +16,7 @@
 
 `⌘1` Project
 
-`⌘5` Debug
+`⌘5` [Debug](./xdebug.html)
 
 `⌘6` TODO
 
