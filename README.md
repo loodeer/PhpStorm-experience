@@ -1,7 +1,14 @@
 # PhpStorm 使用心得
 
-使用 PhpStorm 也有小 5 年时间了，整理一下自己的使用心得。
+
+
+PhpStorm 是啥就不多介绍了，
+
+详细的使用说明文档见官网：https://www.jetbrains.com/help/phpstorm/quick-start-guide-phpstorm.html。
+
+本文列举了个人用的比较多且比较好用的功能，点到为止，不事无巨细。
 
 
 
-由于内容比较杂，连贯性不是很好，因此采用 book 形式，每篇一个主题，可以独立阅读。
+在线阅读地址：https://loodeer.github.io/PhpStorm-experience/
+

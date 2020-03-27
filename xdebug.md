@@ -86,8 +86,6 @@ xdebug.remote_log = /home/tmp/xdebug.log
 
 ### 4. Cli 模式调试
 
-[Debugging a PHP CLI script 官方文档](https://www.jetbrains.com/help/phpstorm/debugging-a-php-cli-script.html)
-
 在 docker 里执行以下命令设置 debug 相关环境变量。
 
 ```bash
