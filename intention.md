@@ -2,7 +2,9 @@
 
 
 
-`⌥↩ ` Show Intention Actions 
+`⌥↩ ` Show Intention Actions ，提示意图动作，也就是意味着可以 IDE 在这里可以执行的操作，虽然可能并不是你的意图。
+
+在任何地方尝试按 `⌥↩ ` 吧，说不定有惊喜。
 
 
 
