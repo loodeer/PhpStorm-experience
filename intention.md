@@ -4,7 +4,15 @@
 
 `⌥↩ ` Show Intention Actions ，提示意图动作，也就是意味着可以 IDE 在这里可以执行的操作，虽然可能并不是你的意图。
 
-在任何地方尝试按 `⌥↩ ` 吧，说不定有惊喜。
+
+
+Save to Dictionaries，让 IDE 识别你项目特定的单词。
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gd8navlqipg30v40hnwt6.gif)
+
+Dictionaries 在 Preference -> Editor -> Spelling 查看：
+
+![image-20200330111300150](https://tva1.sinaimg.cn/large/00831rSTly1gdbs6e2cj5j30zg0jy410.jpg)
 
 
 
@@ -32,12 +40,6 @@ Replace Quotes
 
 
 
-Testing Regular Expressions
-
-![](https://tva1.sinaimg.cn/large/00831rSTly1gd679cr27ig30qo0f0gq8.gif)
-
-
-
  Flip Comparison Operators
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gd67gb0qwgg30qo0f0td9.gif)
@@ -48,3 +50,14 @@ Testing Regular Expressions
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gd67i84qg7g30qm0f0qkl.gif)
 
+
+
+Testing Regular Expressions
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gd679cr27ig30qo0f0gq8.gif)
+
+
+
+
+
+在任何地方尝试按 `⌥↩ ` 吧，说不定有惊喜。
