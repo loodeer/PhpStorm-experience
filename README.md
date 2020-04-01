@@ -14,5 +14,5 @@ PhpStorm 绝对是开发 PHP 的一个大杀器。
 
 
 
-在线阅读地址：https://loodeer.github.io/PhpStorm-experience/
+本项目在线阅读地址：https://loodeer.github.io/PhpStorm-experience/ 。
 

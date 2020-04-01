@@ -12,6 +12,8 @@
 * [右键](right_click.md)
 * [其他](other.md)
 * [插件](plugins.md)
+* [收藏](favorites.md)
 * [版本控制](version_control.md)
+* [数据库](database.md)
 * [写在最后](last.md)
 
