@@ -16,6 +16,8 @@
 
 `⌘1` Project
 
+`⌘2` [Favorites](./favorites.html)
+
 `⌘5` [Debug](./xdebug.html)
 
 `⌘6` TODO
