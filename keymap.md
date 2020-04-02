@@ -4,6 +4,8 @@
 
 ![image-20200323152442028](https://tva1.sinaimg.cn/large/00831rSTly1gd3w44ebm3j31520ra46u.jpg)
 
+上图可以在 Help -> Keymap Reference 找到。
+
 
 
 但是出于种种原因，
@@ -13,6 +15,8 @@
 又比如是从其他 IDE 转过来的已经习惯了之前的快捷键，等等……
 
 我们需要修改快捷键。
+
+**高频操作务必设置快捷键**
 
 
 
