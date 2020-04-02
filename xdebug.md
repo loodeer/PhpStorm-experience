@@ -104,6 +104,16 @@ php public/index.php
 
 断点成功。
 
+如果出现如下错误，
+
+![image-20200401173401986](https://tva1.sinaimg.cn/large/00831rSTly1gdeeffhdw4j30y50bbdu6.jpg)
+
+执行一下 `export PHP_IDE_CONFIG="serverName=SomeName"` 即可。
+
+SomeName 即为下图中的值。
+
+![image-20200401173607300](https://tva1.sinaimg.cn/large/00831rSTly1gdeehl449oj31370fa0ur.jpg)
+
 
 
 ##  调试技巧分享
