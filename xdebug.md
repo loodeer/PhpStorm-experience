@@ -55,11 +55,15 @@ vim /etc/php/7.0/fpm/conf.d/20-xdebug.ini
 增加以下配置:
 
 ```ini
+zend_extension=xdebug.so
 xdebug.remote_enable = on
 xdebug.remote_host = 192.168.22.125
+# xdebug.remote_host = docker.for.mac.localhost # 也可用 docker.for.mac.localhost 替代 ip
 xdebug.remote_autostart = 1
 xdebug.remote_port = 9001
 xdebug.remote_log = /home/tmp/xdebug.log
+
+
 ```
 
 其中 `192.168.22.125` 是我主机的 ip。
